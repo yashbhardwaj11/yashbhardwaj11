@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashbhardwaj11" alt="yashbhardwaj11" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhardwaj11&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhardwaj11" /> </p>
+
 - 🔭 I’m currently working on **Eventia(Events booking App) [https://play.google.com/store/apps/details?id=com.devinfusion.eventiafinal](https://play.google.com/store/apps/details?id=com.devinfusion.eventiafinal)**
 
 - 🌱 I’m currently learning **Native Android Development**
